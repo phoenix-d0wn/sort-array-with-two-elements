@@ -23,3 +23,7 @@ if found lo find odd number OR hi find even number, swap array[lo] and array[hi]
 
 step three:
 repeat step two while lo < hi.
+
+3. Segregate Negative and Positive Numbers
+
+Same concept as No. 2 but with negative numbers on the left side and positive numbers on the other. 
